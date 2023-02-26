@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/divyansh06sharma.github.io/portfolio/static/css/main.5668e992.css",
+    "main.js": "/divyansh06sharma.github.io/portfolio/static/js/main.e3b42d40.js",
+    "static/media/TinDog.png": "/divyansh06sharma.github.io/portfolio/static/media/TinDog.c6ae3eca076619e54d84.png",
+    "static/media/DrumKit.png": "/divyansh06sharma.github.io/portfolio/static/media/DrumKit.513dc8b954dde069e361.png",
+    "static/media/mario.jpg": "/divyansh06sharma.github.io/portfolio/static/media/mario.016b4796332ba7950263.jpg",
+    "static/media/maxresdefault.jpg": "/divyansh06sharma.github.io/portfolio/static/media/maxresdefault.b9d2098187caaa328173.jpg",
+    "static/media/C.png": "/divyansh06sharma.github.io/portfolio/static/media/C.3ade1c0137dc5726e575.png",
+    "static/media/asphalt.jpg": "/divyansh06sharma.github.io/portfolio/static/media/asphalt.e7fe8abf267adccf95b3.jpg",
+    "static/media/DiceeChallange.png": "/divyansh06sharma.github.io/portfolio/static/media/DiceeChallange.45e918d3a14a6b4f5e12.png",
+    "static/media/sniper.jpg": "/divyansh06sharma.github.io/portfolio/static/media/sniper.7200f8be61e9a433988a.jpg",
+    "static/media/pes5.jpeg": "/divyansh06sharma.github.io/portfolio/static/media/pes5.5c3c8bac912eeae27ca6.jpeg",
+    "index.html": "/divyansh06sharma.github.io/portfolio/index.html",
+    "main.5668e992.css.map": "/divyansh06sharma.github.io/portfolio/static/css/main.5668e992.css.map",
+    "main.e3b42d40.js.map": "/divyansh06sharma.github.io/portfolio/static/js/main.e3b42d40.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5668e992.css",
+    "static/js/main.e3b42d40.js"
+  ]
+}
