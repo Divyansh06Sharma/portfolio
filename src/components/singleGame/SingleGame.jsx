@@ -1,5 +1,6 @@
 import React from 'react'
-import Fade from 'react-reveal/Fade'
+// import Fade from 'react-reveal/Fade'
+import {Fade} from "react-awesome-reveal"
 import { FaWindows, FaXbox, FaPlaystation } from 'react-icons/fa'
 import { AiFillStar } from 'react-icons/ai'
 

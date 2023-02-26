@@ -1,7 +1,8 @@
 import React, { useState, useRef, useEffect } from 'react'
 import { BsExclamationLg, BsPatchCheckFill, BsTranslate } from "react-icons/bs"
-import Fade from "react-reveal/Fade"
-import Reveal from "react-reveal"
+// import Fade from "react-reveal/Fade"
+import {Fade, Reveal} from "react-awesome-reveal"
+// import Reveal from "react-reveal"
 
 import Blast from "../../components/BlastAnimation/Blast"
 import Map from "../../components/map/Map"
