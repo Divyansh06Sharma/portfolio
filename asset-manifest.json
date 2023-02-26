@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/divyansh06sharma.github.io/portfolio/static/css/main.5668e992.css",
-    "main.js": "/divyansh06sharma.github.io/portfolio/static/js/main.e3b42d40.js",
+    "main.js": "/divyansh06sharma.github.io/portfolio/static/js/main.17aeb4ad.js",
     "static/media/TinDog.png": "/divyansh06sharma.github.io/portfolio/static/media/TinDog.c6ae3eca076619e54d84.png",
     "static/media/DrumKit.png": "/divyansh06sharma.github.io/portfolio/static/media/DrumKit.513dc8b954dde069e361.png",
     "static/media/mario.jpg": "/divyansh06sharma.github.io/portfolio/static/media/mario.016b4796332ba7950263.jpg",
@@ -13,10 +13,10 @@
     "static/media/pes5.jpeg": "/divyansh06sharma.github.io/portfolio/static/media/pes5.5c3c8bac912eeae27ca6.jpeg",
     "index.html": "/divyansh06sharma.github.io/portfolio/index.html",
     "main.5668e992.css.map": "/divyansh06sharma.github.io/portfolio/static/css/main.5668e992.css.map",
-    "main.e3b42d40.js.map": "/divyansh06sharma.github.io/portfolio/static/js/main.e3b42d40.js.map"
+    "main.17aeb4ad.js.map": "/divyansh06sharma.github.io/portfolio/static/js/main.17aeb4ad.js.map"
   },
   "entrypoints": [
     "static/css/main.5668e992.css",
-    "static/js/main.e3b42d40.js"
+    "static/js/main.17aeb4ad.js"
   ]
 }
