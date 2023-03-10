@@ -33,4 +33,25 @@
       display: none;
     }
   }
-  
+
+svg path{
+  stroke-dashoffset:210;
+  stroke-dasharray: 210;
+  animation: draw 50s forwards ;
+}
+svg g{
+  fill-opacity: 0;
+  animation: fill-in 2s 10s forwards ;
+}
+
+@keyframes draw {
+  to{
+    stroke-dashoffset: 1000;
+  }
+}
+
+@keyframes fill-in{
+  to{
+    fill-opacity: 1;
+  }
+}

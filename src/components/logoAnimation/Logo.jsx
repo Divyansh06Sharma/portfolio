@@ -2,7 +2,7 @@
 import "./logo.scss"
 import '../../components/sidebar/sidebar.scss'
 
-import { DrawSVGPlugin } from 'gsap-trial/DrawSVGPlugin'
+// import { DrawSVGPlugin } from 'gsap-trial/DrawSVGPlugin'
 import gsap from "gsap"
 const Logo = () => {
     const bgRef = useRef()
@@ -12,7 +12,7 @@ const Logo = () => {
 
 
    React.useEffect(() => {
-    gsap.registerPlugin(DrawSVGPlugin)
+    gsap.registerPlugin("")
    setTimeout(() => {
     gsap.timeline().to(bgRef.current,{
         duration: 1,

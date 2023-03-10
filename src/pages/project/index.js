@@ -43,7 +43,7 @@ export const projects = [
   {
     id: 3,
     name: 'Tin-Dog',
-    desc: 'This is an amazing project for your Dog to find his soulmate',
+    desc: 'This is an amazing website for your Dog to find his soulmate',
     stack: 'React JS',
     imgUrl: TinDog,
 
