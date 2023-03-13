@@ -18,7 +18,7 @@ import {
   SiRedux,
 } from 'react-icons/si'
 
-import { GrGithub, GrTwitter, GrInstagram } from 'react-icons/gr'
+import { GrGithub, GrInstagram } from 'react-icons/gr'
 import { AiFillHtml5 } from 'react-icons/ai'
 import { DiCss3, DiMongodb } from 'react-icons/di'
 import { IoLogoJavascript, IoLogoGameControllerB } from 'react-icons/io'
@@ -58,15 +58,7 @@ const socialIcons = [
   {
     icon: <GrGithub className="icon switch__color" />,
     url: 'https://github.com/Divyansh06Sharma',
-  },
-  // {
-  //   icon: <FiYoutube className="icon switch__color" />,
-  //   url: 'https://www.youtube.com/c/AlmarexWebDev',
-  // },
-  {
-    icon: <GrTwitter className="icon switch__color" />,
-    url: 'https://twitter.com/almarexwebdev',
-  },
+  }, 
   {
     icon: <GrInstagram className="icon switch__color" />,
     url: 'https://www.instagram.com/divyansh_.06_/?next=%2F',
