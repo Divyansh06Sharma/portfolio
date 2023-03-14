@@ -47,15 +47,15 @@ const About = () => {
               <p>
                 Some interesting things about me, I’m a Gym addict and loves
                 to play Basketball and Football so I’m always ready for any challenges
-                that come in my way. Here’s my CV below for more details
+                that come in my way. Here’s My Resume below for more details
               </p>
             </Fade>
             <Fade left >
-              <a href={myCV} download className='contact-button submit-button'>
+              <a href="https://drive.google.com/file/d/1Z2tWq9RNwzLWdFAPv6hBD0TVlHzrgiFe/view?usp=share_link" target="_blank" download className='contact-button submit-button'>
                 <div>
                   <span className='bg switch__bg'></span>
                   <span className='base switch__border-color'></span>
-                  <span className='text'> Download CV</span>
+                  <span className='text'> Download Resume</span>
                 </div>
               </a>
 
