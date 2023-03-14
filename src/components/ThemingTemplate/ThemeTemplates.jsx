@@ -49,12 +49,12 @@ const ThemeTemplates = () => {
         <div className="mode">
           <div className= {`${colorTheme === "light-mode" ? 'active-mode' : ''}`}
            onClick={() => handleTheme("light-mode ")}>
-            <BsFillSunFill className="switch__color icon" />
+            <BsMoonStars className="switch__color icon" />
           </div>
 
           <div className= {`${colorTheme === "dark-mode" ? 'active-mode' : ''}`}
            onClick={() => handleTheme("dark-mode")} >
-            <BsMoonStars className="switch__color icon" />
+            <BsFillSunFill className="switch__color icon" />
           </div>
         </div>
 

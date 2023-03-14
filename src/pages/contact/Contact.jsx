@@ -188,7 +188,7 @@ const Contact = () => {
                     </Fade>
                     <Reveal bottom>
                         <footer className='footer'>
-                            <p>$copy; copyright All Right Reserved Divyansh - 2022</p>
+                            <p>copyright All Right Reserved Divyansh - 2022</p>
                         </footer>
                     </Reveal>
                 </form>
